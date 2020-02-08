@@ -1,0 +1,9 @@
+D:\Example\capstones-backend\capstones-backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Example\capstones-backend\capstones-backend\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Example\capstones-backend\capstones-backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\capstones-backend.csprojAssemblyReference.cache
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\staticwebassets\capstones-backend.StaticWebAssets.Manifest.cache
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\staticwebassets\capstones-backend.StaticWebAssets.xml
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\capstones-backend.AssemblyInfoInputs.cache
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\capstones-backend.AssemblyInfo.cs
+D:\Example\capstones-backend\capstones-backend\obj\Debug\netcoreapp3.0\capstones-backend.RazorTargetAssemblyInfo.cache
